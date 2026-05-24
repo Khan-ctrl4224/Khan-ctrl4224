@@ -95,17 +95,17 @@ Building ETL Pipelines, NLP Systems & AI-Powered Applications
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khan-ctrl4224&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Khan-ctrl4224&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khan-ctrl4224&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Khan-ctrl4224&layout=compact&theme=tokyonight" />
 </p>
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/syed-furqan-a12b56382
-- 📧 Email: syedfurqan4224@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/syed-furqan-a12b56382
+- 📧 Email: mailto:syedfurqan4224@gmail.com
 - 🌍 Bangalore, India
 
 ---

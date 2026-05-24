@@ -95,11 +95,7 @@ Building ETL Pipelines, NLP Systems & AI-Powered Applications
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khan-ctrl4224&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khan-ctrl4224&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khan-ctrl4224&theme=tokyonight" />
 </p>
 
 ## 📫 Connect With Me
